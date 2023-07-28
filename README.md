@@ -22,7 +22,7 @@ yarn
 
 ### Run the project
 ```js
-npm run install
+npm run start
 //or
 yarn start
 ```
