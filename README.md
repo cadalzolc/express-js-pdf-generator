@@ -7,13 +7,13 @@ This is a test project to generate pdf from html using puppeteer with express.js
 
 ### Note
 The source directory is the root folder. Run your terminal is this location after you clone the project
-```yaml
+```js
 cd source
 ```
 
 
 ### Install npm packages
-```yaml
+```js
 npm install
 //or
 yarn
@@ -21,14 +21,14 @@ yarn
 
 
 ### Run the project
-```yaml
+```js
 npm run install
 //or
 yarn start
 ```
 
 ### Build the project
-```yaml
+```js
 npm run build
 //or
 yarn build
