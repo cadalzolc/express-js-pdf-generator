@@ -5,7 +5,7 @@ This is a test project to generate pdf from html using puppeteer with express.js
 ## Running the project
 
 
-### Not
+### Note
 The source directory is the root folder. Run your terminal is this location after you clone the project
 ```yaml
 cd soure
